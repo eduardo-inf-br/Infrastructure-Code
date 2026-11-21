@@ -100,6 +100,7 @@ Também é possível confirmar o isolamento tentando aceder a um diretório depa
 | `/sec` | `root:GRP_SEC` | `2770` | `root` e membros de `GRP_SEC` têm acesso total; outros não têm acesso. |
 
 
+
 ---
 
 **`Informática para Internet`**
